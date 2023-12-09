@@ -1,4 +1,4 @@
-# ECommerce-E-Commerce Platform Description Welcome to our E-Commerce Platform, where shopping meets convenience! Our platform is designed to provide users with a seamless and enjoyable shopping experience, offering a wide range of products to meet your every need.
+# ECommerce-Platform Description Welcome to our E-Commerce Platform, where shopping meets convenience! Our platform is designed to provide users with a seamless and enjoyable shopping experience, offering a wide range of products to meet your every need.
 
 Features Extensive Product Catalog: Explore a diverse collection of products as your needs.
 
